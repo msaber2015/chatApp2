@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="commons"/>
+<aop-project name="bussiness"/>
+<aop-project name="chat"/>
+<aop-project name="webServices"/>
+<aop-project name="integeration"/>
+<aop-project name="ear_project"/>
+</aop-reference-model>

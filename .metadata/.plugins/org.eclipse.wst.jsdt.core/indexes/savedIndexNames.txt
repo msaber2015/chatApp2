@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+F:\SpringApps\ChatApp\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2426909950.index
+3798853207.index
+1065397458.index
+3826981698.index
+3883739870.index
+1977298287.index
